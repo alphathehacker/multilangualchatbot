@@ -1,0 +1,3637 @@
+Here is a complete text summary of **Anil Neerukonda Institute of Technology & Sciences (ANITS)** based on a wide range of current web resources:
+
+***
+
+**Overview & History**
+- Established in 2001–02 by Anil Neerukonda Educational Society (ANES) in memory of Dr. N.B.R. Prasad[1][2][3]
+- Private, autonomous institution affiliated to Andhra University, Visakhapatnam; approved by AICTE and UGC[4][1]
+- Accredited with NAAC “A+” (till Dec 2019, 3.01 CGPA); NBA accredited for 7 key BTech programs under Tier I[5][1]
+- Recognized as a Research Centre; owned by Megha Engineering and Infrastructure Limited (MEIL)[3]
+
+**Location & Contact**
+- Campus: Sangivalasa, Bheemunipatnam, Visakhapatnam, Andhra Pradesh, PIN: 531162
+- Phone: 08933-225083/84 | Principal: kalvasrk@anits.edu.in | Placement: dean.placements@anits.edu.in | Website: www.anits.edu.in[6][7][8]
+
+**Academic Programs**
+- **Undergraduate (BTech, 4 years)**
+  - Chemical Engineering
+  - Civil Engineering
+  - Computer Science & Engineering (CSE)
+  - CSE (Data Science), CSE (AI & ML)
+  - Electrical & Electronics Engineering (EEE)
+  - Electronics & Communication Engineering (ECE)
+  - Information Technology (IT)
+  - Mechanical Engineering[9][10][11][1]
+
+- **Postgraduate (MTech, 2 years; MBA)**
+  - Control Systems, Computer Science & Technology
+  - Communication Systems, Machine Design
+  - Soil Mechanics, Biotechnology[12][1][9]
+
+- **Total Seats:** About 1,725 across branches[12]
+
+**Admissions (2025)**
+- **UG (BTech):** Via AP EAMCET; candidates need 10+2 with 60% aggregate; category B (management quota) admissions also available[13][14][9]
+- **PG:** Via GATE, AP PGECET[15][9]
+- Application: Online through official website[15]
+- Regular updates for application and counselling dates[9][15]
+
+**Fees Structure**
+- BTech average: ₹76,300/annum (management quota and regular may differ)[13]
+- Programs range from ₹70,000 to ₹2,39,800 total[12]
+- Annual and semester-wise breakdowns available via the website/office[16]
+
+**Campus Facilities**
+- State-of-the-art labs, 20+ specialized laboratories[11]
+- Central library with over 50,000 books, 100 journals, digital resources[11]
+- Wi-Fi enabled campus, digital classrooms, business incubation center[11][12]
+- Medical/hospital, hostels for boys and girls, gym, cafeteria, shuttle service, sports complex, convenience stores[12]
+- Transport connectivity to Visakhapatnam city
+
+**Placements & Training**
+- Dedicated Training & Placement Cell offering regular campus recruitment training (CRT): Quant, logical, verbal, English, group discussions, interview skills[17][9]
+- Top recruiters: Infosys, TCS, Cognizant, Capgemini, Wipro, Virtusa, Accenture etc.[18]
+- Median salary: ~₹4.50 lakhs/year (NIRF 2025)[18][12]
+- 729 out of 1,164 engineering students placed (latest cycle)[18]
+
+**Key Achievements & Rankings**
+- High NIRF/MHRD national ranking[3]
+- Multiple awards: AI-level hackathon winner, recognized by AP State Skills Development Corporation[19][5]
+- AAA rating by Careers360
+
+**Departments**
+- Covers standard engineering branches (CSE, ECE, EEE, MECH, CIVIL, CHEM, IT) and allied sciences; R&D, IQAC, Freshman Engineering[2][10][1][9]
+
+**Other Services**
+- Business & entrepreneurship incubation[12]
+- Research & consultancy services
+- Skill development and professional training programs
+
+**Notable Points**
+- Prominent engineering and management institute in Andhra Pradesh, highly rated for academic quality, infrastructure, placements, and research[3][11]
+
+***
+
+Computer Science And Engineering (Ai & Ml)
+
+Teaching Staff
+List of Faculty
+
+Dr. K Selvani Deepthi
+Professor & HOD
+selvanideepthi.csm@anits.edu.in
+9440187827
+
+M.Tech.,Ph.D
+
+Teaching Experience
+19.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.R.Sivaranjani
+Professor & Dean - Research & Development
+Sivaranjani.csm@anits.edu.in
+9642022170
+
+M.Tech.,Ph.D
+
+Teaching Experience
+23.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. S Ratan Kumar
+Associate Professor
+ratankumar.csm@anits.edu.in
+9052492777
+
+M.Tech (Ph.D)
+
+Teaching Experience
+20.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. Appala Srinuvasu Muttipati
+Associate Professor
+srinuvasum.csm@anits.edu.in
+8341645858
+
+M.Tech.,Ph.D
+
+Teaching Experience
+16 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. D Karun Kumar Reddy
+Associate Professor
+karunkumar.csm@anits.edu.in
+9966064964
+
+M.Tech,Ph.D
+
+Teaching Experience
+14.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Mrs B Siva Jyothi
+Assistant Professor
+sivajyothi.csm@anits.edu.in
+9032992384
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+9.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. Ch.K.Rupesh kumar
+Assistant Professor
+rupeshkumar.csm@anits.edu.in
+9248771315
+
+M.Tech
+
+Teaching Experience
+11.5 Yr(s)
+
+Publications
+Faculty Links
+
+Mrs G Suryakala Easwari
+Assistant Professor
+kala.csm@anits.edu.in
+9014101492
+
+M.Tech
+
+Teaching Experience
+12.0 Yr(s)
+
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. N.Sivaganga Kumari
+Assistant Professor
+sivaganga.csm@anits.edu.in
+8106431975
+
+M.Tech
+
+Teaching Experience
+16.0 Yr(s)
+
+Publications
+Faculty Links
+
+Mrs. Bangaru Sailaja
+Assistant Professor
+sailaja.csm@anits.edu.in
+9908661827
+
+M.Tech(PhD)
+
+Teaching Experience
+15.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. J. Ananda Lavanya
+Assistant Professor
+lavanya.csm@anits.edu.in
+8886388736
+
+M.Tech(PhD)
+
+Teaching Experience
+14.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Ms M.V.Bhuvaneswari
+Assistant Professor
+mbhuvana.csm@anits.edu.in
+7382072519
+
+M.Tech
+
+Teaching Experience
+5.5 Yr(s)
+
+Achievements
+Faculty Links
+
+Mrs. K.Moni Sushma Deep
+Assistant Professor
+monisushma.csm@anits.edu.in
+9959383938
+
+M.Tech
+
+Teaching Experience
+8.6 Yr(s)
+
+Publications
+Faculty Links
+
+Ms. Kotha Santhi Sanghamitra
+Assistant Professor
+ksanghamitra.csm@anits.edu.in
+8125324359
+
+M.Tech
+
+Teaching Experience
+1.6 Yr(s)
+
+Publications
+Faculty Links
+
+Mr. Sampathirao Yoganandh
+Assistant Professor
+syoganandh.csm@anits.edu.in
+9492995025
+
+M.Tech
+
+Teaching Experience
+1.6 Yr(s)
+
+Publications
+Faculty Links
+
+Mrs. Yasarapu Sudha Madhuri
+Assistant Professor
+ysudhamadhuri. csm@anits.edu.in
+9966409572
+
+M.Tech
+
+Teaching Experience
+4.0 Yr(s)
+
+Faculty Links
+
+Mrs. Ch Sowndarya Lahari
+Assistant Professor
+sowndarya. csm@anits.edu.in
+8978097657
+
+M.Tech
+
+Teaching Experience
+7.0 Yr(s)
+
+Achievements
+Faculty Links
+
+Mrs. Ch Sravanthi Sowdanya
+Assistant Professor
+chsravanthi. csm@anits.edu.in
+9491561615
+
+M.Tech(PhD)
+
+Teaching Experience
+4.5 Yr(s)
+
+Faculty Links
+
+Ms. Y.Sruthi
+Assistant Professor
+sruthiy.csm@anits.edu.in
+
+M.Tech
+
+Teaching Experience
+2.6 Yr(s)
+
+Faculty Links
+
+Dr. G Prasanna Priya
+Assistant Professor
+prasannapriya.csm@anits.edu.in
+8919762904
+
+PhD
+
+Teaching Experience
+13 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mr. P. Santosh Kumar
+Assistant Professor
+santoshp.csm@anits.edu.in
+9963168681
+
+M.Tech
+
+Teaching Experience
+7.0 Yr(s)
+
+Faculty Links
+
+Ms. S Nirmala
+Assistant Professor
+nirmalas.csm@anits.edu.in
+83677 25078
+
+M.Tech
+
+Teaching Experience
+1.5 Yr(s)
+
+Faculty Links
+
+Mrs Mummidi Krishnaveni
+Assistant Professor
+krishnavenim.csm@anits.edu.in
+6394244672
+
+M.Tech
+
+Teaching Experience
+6 Yr(s)
+
+Achievements
+Faculty Links
+
+Ms N Sakita Sri
+Assistant Professor
+nsakithasri.csm@anits.edu.in
+8121666843
+
+M.Tech
+
+Teaching Experience
+12 Yr(s)
+
+Publications
+Faculty Links
+
+Mr SATTI BABU D
+Assistant Professor
+sattibabu.csm@anits.edu.in
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+20.0 Yr(s)
+
+Publications
+Faculty Links
+
+Mr. M Sundarababu
+Assistant Professor
+msundar.csm@anits.edu.in
+9885404221
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+13.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. M.Swetha
+Assistant Professor
+mswetha.csm@anits.edu.in
+8074274071
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+14.0 Yr(s)
+
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. S Pradeep
+Assistant Professor
+sevapradeep.csm@anits.edu.in
+9494218701
+
+M.Tech
+
+Teaching Experience
+2.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Ms. P Bharghavi
+Assistant Professor
+pbhargavi.csm@anits.edu.in
+9381940244
+
+M.Tech
+
+Teaching Experience
+1.9 Yrs
+
+Achievements
+Faculty Links
+
+Mr. Varanasi Anil Kumar
+Assistant Professor
+anilkumarv.csm@anits.edu.in
+7036388297
+
+M.Tech
+
+Teaching Experience
+6.0 Yr(s)
+
+Publications
+Faculty Links
+
+Mrs. Ch. Swathi
+Assistant Professor
+swathich.csm@anits.edu.in
+9700864760
+
+M.Tech
+
+Teaching Experience
+5.0 Yr(s)
+
+Faculty Links
+
+Mr. P. Harin
+Assistant Professor
+harinp.csm@anits.edu.in
+8977605125
+
+M.Tech
+
+Teaching Experience
+0.3 Yrs
+
+Faculty Links
+
+Dr.V.Tejaswini
+Assistant Professor
+vtejaswini.csm@anits.edu.in
+8297794751
+
+M.Tech.,Ph.D
+
+Teaching Experience
+0.5 Yr(s)
+
+
+
+
+
+Chemical Engineering
+
+
+Teaching Staff
+List of Faculty
+
+Dr. R. Srikanth
+Professor & HIOD
+srikanth.che@anits.edu.in
+9848472072
+
+Ph.D
+
+Teaching Experience
+28.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Prof.V.Sridevi
+Professor
+dean_chemical@anits.edu.in
+9397922444
+
+Ph.D
+
+Teaching Experience
+26.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Dr. Ch. Anil
+Associate Professor
+anil.che@anits.edu.in
+9848119352
+
+Ph.D
+
+Teaching Experience
+17.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. Bangaru Naidu Thaddi
+Associate Professor
+drthaddibn.che@anits.edu.in
+9989034235
+
+Ph.D, PDF (Postdoctoral research)
+
+Teaching Experience
+11.0 Yr(s)
+
+Qualifications
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. K. China Malakondaiah
+Assistant Professor
+kaniganti.che@anits.edu.in
+9440437431
+
+Ph.D (IIT Guwahati)
+
+Teaching Experience
+10.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. Anjali Dasari
+Assistant Professor
+anjali.che@anits.edu.in
+9000251804
+
+Ph.D (IIT Guwahati)
+
+Teaching Experience
+9.0 Yr(s)
+
+Membership In Committees
+Faculty Links
+
+Mr. D. Guru Mahesh
+Assistant Professor
+gmgurumaheshbt.che@anits.edu.in
+9347039264
+
+M.Sc.,MPhil
+
+Teaching Experience
+23.0 Yr(s)
+
+Faculty Links
+
+Mr. M. Koteswara Rao
+Assistant Professor
+koteswararao.che@anits.edu.in
+7382141550
+
+M.Tech.
+
+Teaching Experience
+14.0 Yr(s)
+
+Membership In Committees
+Faculty Links
+
+Mr. B. Pradeep Santhosh Kumar
+Assistant Professor
+pradeep.che@anits.edu.in
+9494578473
+
+M. Tech.
+
+Teaching Experience
+13.0 Yr(s)
+
+Faculty Links
+
+Ms.S.Harika
+Assistant Professor
+harika.che@anits.edu.in
+9985265410
+
+M.Tech
+
+Teaching Experience
+11.0 Yr(s)
+
+
+
+
+
+
+Civil Engineering
+
+
+eaching Staff
+List of Faculty
+
+Dr. J.Vikranth
+Professor & HOD
+vikranth.ce@anits.edu.in
+9491807080
+
+Ph.D. (Structures) (AU)
+
+Teaching Experience
+21.0 Yr(s)
+
+Publications
+Faculty Links
+
+Dr.B.N.D.Narsinga Rao
+Professor & Dean - Student Affairs
+dean_sa@anits.edu.in
+9494009956
+
+ME, PhD, FIE, FIGS
+
+Teaching Experience
+32.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. P.V.R.K.REDDY
+Associate Professor
+pvrkreddy.ce@anits.edu.in
+9492222275
+
+M.E.(Structural Engineering), Ph.D. (NIT Warangal)
+
+Teaching Experience
+14 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.Balendra Mouli Marrapu
+Associate Professor
+balendramouli.ce@anits.edu.in
+9381957838
+
+Ph.D.(Soil Dynamics) (IIT Kharagpur)
+
+Teaching Experience
+6.5 Yr(s)
+
+Publications
+Faculty Links
+
+Palla V R Sravya
+Assistant Professor
+pvrsravya.ce@anits.edu.in
+9618369399
+
+M.E.(Environmental Engineering&Management), (Ph.D)
+
+Teaching Experience
+11.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. Kiran Kumar Tottadi
+Assistant Professor
+kirankumar.ce@anits.edu.in
+8179687374
+
+M. Tech. (Transportation), Ph.D. (NIT Warangal)
+
+Teaching Experience
+6.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Sumanjali Parimi
+Assistant Professor
+sumanjalip.ce@anits.edu.in
+9949946226
+
+M.E.(Soil Mechanics & Foundation Engg.), (Ph.D.)
+
+Teaching Experience
+9.0 Yr(s)
+
+Publications
+Faculty Links
+
+Shaik Asif Ali
+Assistant Professor
+shaikasifali.ce@anits.edu.in
+7670860031
+
+M.Tech (Structures), (Ph.D)
+
+Teaching Experience
+10.0 Yr(s)
+
+Faculty Links
+
+Dr.Patnala V S Neelima
+Assistant Professor
+neelima.ce@anits.edu.in
+8143764200
+
+Ph.D. (Earthquake & Structures) (IIIT Hyderabad)
+
+Teaching Experience
+12.0 Yr(s)
+
+Publications
+Faculty Links
+
+P Sai Kumar
+Assistant Professor
+saikumar.ce@anits.edu.in
+7732053464
+
+M.Tech(Soil Mechanics & Foundation Engineering)
+
+Teaching Experience
+1.5 Yr(s)
+
+Membership In Committees
+Faculty Links
+
+Nagireddy Mounika
+Assistant Professor
+mounika.ce@anits.edu.in
+9550197927
+
+M.Tech (Urban Planning) (NIT Surat)
+
+Teaching Experience
+1.0 Yr(s)
+
+Faculty Links
+
+K. Devi Renuka
+Assistant Professor
+renuka.ce@anits.edu.in
+8309735139
+
+M.Tech (Soil Mechanics)
+
+Teaching Experience
+1.0 Yr(s)
+
+
+Mr. Satya Eswara Sanyasi Rao Kolli
+Assistant Professor
+ksesrao.ce@anits.edu.in
+9494822752
+
+M.Tech (NIT TRICHY), (Ph.D NIT RAIPUR)
+
+Teaching Experience
+7.6 Yr(s)
+
+
+Computer Science And Engineering
+
+
+Teaching Staff
+List of Faculty
+
+Prof. Srinivas Gorla
+Head of the Department & Dean - CSE Allied
+gsrinivas.cse@anits.edu.in
+9963199200
+
+Ph.D., M.I.E
+
+Teaching Experience
+25 Years
+
+Qualifications
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. Rohini A
+Associate Professor
+arohini.cse@anits.edu.in
+09500934323
+
+B.E.,M.Tech.,PhD
+
+Teaching Experience
+13.0 Years
+
+Qualifications
+Publications
+Achievements
+Faculty Links
+
+Dr.V.Usha Bala
+Associate Professor
+ushabala@gmail.com
+
+M.Tech,Ph.D
+
+Teaching Experience
+17 Years
+
+Qualifications
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. Bhagavathula Meena
+Associate Professor
+bmeena.cse@anits.edu.in
+9581630915
+
+M.Tech.,Ph.D
+
+Teaching Experience
+19.0 Yr(s)
+
+Faculty Links
+
+Dr. Dasari Naga Tej
+Associate Professor
+nagatej.cse@anits.edu.in
+9618326506
+
+M.Tech.,Ph.D
+
+Teaching Experience
+16.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. Chandaka Babi
+Associate Professor
+babi.cse@anits.edu.in
+9966166898
+
+M.Tech.,Ph.D
+
+Teaching Experience
+8.0 Yr(s)
+
+Publications
+Faculty Links
+
+Dr G Sateesh
+Associate Professor
+sateeshgudla.cse@anits.edu.in
+9949682243
+
+M.Tech.,Ph.D
+
+Teaching Experience
+17.0 Yr(s)
+
+Faculty Links
+
+Dr. S M Krishna
+Associate Professor
+smkrishna.cse@anits.edu.in
+7337588585
+
+M.Tech,Ph.D
+
+Teaching Experience
+19.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+S. A. Bhavani
+Assistant Professor
+sabhavani.cse@anits.edu.in
+9441969454
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+18.9 Yr(s)
+
+Faculty Links
+
+G.Gowri Pushpa
+Assistant Professor
+gowripushpa.cse@anits.edu.in
+8519892529
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+16.2 Yr(s)
+
+Faculty Links
+
+Pranitha Gadde
+Assistant Professor
+pranitha.cse@anits.edu.in
+9177755811
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+14.0 Yr(s)
+
+Faculty Links
+
+Mrs. Anitha Teeda
+Assistant Professor
+anitha.cse@anits.edu.in
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+10.0 Yr(s)
+
+Faculty Links
+
+G.Santoshi
+Assistant Professor
+gsanthoshi.cse@anits.edu.in
+8500925079
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+12.0 Yr(s)
+
+Faculty Links
+
+P Krishnanjaneyulu
+Assistant Professor
+None
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+5.1 Yr(s)
+
+Faculty Links
+
+Mr.B Mahesh
+Assistant Professor
+mahesh.cse@anits.edu.in
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+10.0 Yr(s)
+
+Faculty Links
+
+Mr.S Bosu Babu
+Assistant Professor
+bosubabu.cse@anits.edu.in
+9966078588
+
+M.Tech
+
+Teaching Experience
+14.0 Yr(s)
+
+Faculty Links
+
+Ms. P Spandana Valli
+Assistant Professor
+spandana.cse@anits.edu.in
+8519966444
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+7.3 Yr(s)
+
+Faculty Links
+
+N.Marline Joys
+Assistant Professor
+None
+
+M.Tech.,(Ph.D.)
+
+Teaching Experience
+8.1 Yr(s)
+
+Faculty Links
+
+D Aswani
+Assistant Professor
+None
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+11.0 Yr(s)
+
+Faculty Links
+
+D Anusha
+Assistant Professor
+anushad.cse@anits.edu.in
+9052122828
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+8.3 Yr(s)
+
+Faculty Links
+
+Preethi Nutipalli
+Assistant Professor
+npreethi.cse@anits.edu.in
+7287964773
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+13 Yr(s)
+
+Faculty Links
+
+Sreelahari Vallamsetla
+Assistant Professor
+vsreelahari.cse@anits.edu.in
+7382917133
+
+M.Tech
+
+Teaching Experience
+8.4 Yr(s)
+
+Faculty Links
+
+Mr. S. Anand Kumar
+Assistant Professor
+anandh.cse@anits.edu.in
+9441370817
+
+M.Tech.,(Ph.D)
+
+Teaching Experience
+19.0 Yr(s)
+
+Faculty Links
+
+Mr.B.Ravi Kumar
+Assistant Professor
+None
+9885082584
+
+M.Sc.,M.Tech.,(Ph.D)
+
+Teaching Experience
+19.0 Yr(s)
+
+Faculty Links
+
+K Rachitha Sony
+Assistant Professor
+None
+9703120991
+
+M.Sc.,M.Tech.
+
+Teaching Experience
+16.0 Yr(s)
+
+Faculty Links
+
+P Bharathi
+Assistant Professor
+bharathipaleti.cse@anits.edu.in
+9366575896
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+16.0 Yr(s)
+
+Faculty Links
+
+A Sravanthi
+Assistant Professor
+asravanthi.cse@anits.edu.in
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+7.7 Yr(s)
+
+Faculty Links
+
+K Venkata Ratnam
+Assistant Professor
+kvenkataratnam.cse@anits.edu.in
+9030406852
+
+M.Tech
+
+Teaching Experience
+11.0 Yr(s)
+
+Faculty Links
+
+Mrs Y Padmasri
+Assistant Professor
+ypadmasri.cse@anits.edu.in
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+11.7 Yr(s)
+
+Faculty Links
+
+Mrs. Botcha Vineela Rani
+Assistant Professor
+None
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+8.0 Yr(s)
+
+Faculty Links
+
+Mrs. Y. Sujatha
+Assistant Professor
+None
+
+M.Tech
+
+Teaching Experience
+6.0 Yr(s)
+
+Faculty Links
+
+Mrs S Anusha
+Assistant Professor
+None
+8500148211
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+1 .8Yr(s)
+
+Faculty Links
+
+Mrs. Lalithakumari Datti
+Assistant Professor
+None
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+11.0 Yr(s)
+
+Faculty Links
+
+Mrs. S Radhika
+Assistant Professor
+radhika.cse@anits.edu.in
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+14.1 Yr(s)
+
+Faculty Links
+
+Mrs Kalyani Chapa
+Assistant Professor
+None
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+10.7 Yr(s)
+
+Faculty Links
+
+Mr. N Udaya Kumar
+Assistant Professor
+nuday.cse@anits.edu.in
+9849772777
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+15.0 Yr(s)
+
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. A. Swarnalatha
+Assistant Professor
+None
+
+M.Tech
+
+Teaching Experience
+5.0 Yr(s)
+
+Faculty Links
+
+Mr. Srinivas Rao Nammi
+Assistant Professor
+nsr.cse@anits.edu.in
+8897654707
+
+M.Tech
+
+Teaching Experience
+8.8 Yr(s)
+
+Faculty Links
+
+Dr. Ch Lakshmi Narayana
+Assistant Professor
+ln.cse@anits.edu.in
+7416747296
+
+M.Tech.,Ph.D
+
+Teaching Experience
+5.5 Yr(s)
+
+Faculty Links
+
+Mr. N Durga Prasad
+Assistant Professor
+durgaprasad.cse@anits.edu.in
+9491385783
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+14.0 Yr(s)
+
+Faculty Links
+
+Mr. P Mohan Rao
+Assistant Professor
+pmr.cse@anits.edu.in
+9573833663
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+4.5 Yr(s)
+
+Faculty Links
+
+Mrs.T Kranthi
+Assistant Professor
+tkranthi.cse@anits.edu.in
+7032490979
+
+M.Tech
+
+Teaching Experience
+10.0 Yr(s)
+
+Faculty Links
+
+Dr. Pavani Meesala
+Assistant Professor
+mpavani.cse@anits.edu.in
+9908729654
+
+M.Tech.,Ph.D
+
+Teaching Experience
+8.0 Yr(s)
+
+
+
+Computer Science And Engineering (DS)
+
+Teaching Staff
+List of Faculty
+
+Dr. S Adinarayana
+Professor & HoD
+hod_csd@anits.edu.in, sadinarayana.csd@anits.edu.in
+8309132887
+
+M.E(CSE), PhD
+
+Teaching Experience
+26.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.I.Sundara Siva Rao
+Professor
+sivarao.csd@anits.edu.in
+9490107574
+
+M.Tech,Ph.D
+
+Teaching Experience
+25.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. S V S Santhi
+Associate Professor
+svssanthi.csd@anits.edu.in
+9703468967
+
+M.Tech, PhD
+
+Teaching Experience
+15.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. Om Prakash Samantray
+Associate Professor
+omprakash.csd@anits.edu.in
+9705172290
+
+M.Tech, PhD
+
+Teaching Experience
+16.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.I.S.Srinivasa Rao
+Associate Professor
+srinivasarao.csd@anits.edu.in
+8790520520
+
+M.Tech.,Ph.D
+
+Teaching Experience
+23.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr J. Aruna Devi
+Associate Professor
+jarunadevi2003.csd@anits.edu.in
+8790783782
+
+PhD
+
+Teaching Experience
+17 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Mrs G V Gayathri
+Assistant Professor
+gvgayathri.csd@anits.edu.in
+9908216500
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+15.5 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. Perla Ratna Kumari
+Assistant Professor
+ratnakumari.csd@anits.edu.in
+8523805643
+
+M.Tech (Ph.D)
+
+Teaching Experience
+10.0 Yr(s)
+
+Membership In Committees
+Faculty Links
+
+Mrs. T Mallika
+Assistant Professor
+mallika.csd@anits.edu.in
+
+M.Tech
+
+Teaching Experience
+1.3 Yr(s)
+
+Faculty Links
+
+Mrs. Imandi Tejaswini
+Assistant Professor
+itejaswini.csd@anits.edu.in
+7075120549
+
+M.Tech
+
+Teaching Experience
+1 Yr(s)
+
+Faculty Links
+
+Mrs. Botta Venkata Kavya
+Assistant Professor
+kavyabotta.csd@anits.edu.in
+7095039118
+
+M.Tech
+
+Teaching Experience
+5 Yr(s)
+
+Publications
+Faculty Links
+
+Ms. R.Anantha
+Assistant Professor
+r.anantha.csd@anits.edu.in
+9398440735
+
+M.Tech
+
+Teaching Experience
+1.0 Yr(s)
+
+Faculty Links
+
+Mrs. M.Bhavya
+Assistant Professor
+bhavyam.csd@anits.edu.in
+8142334672
+
+M.Tech
+
+Teaching Experience
+1.5 Yr(s)
+
+Faculty Links
+
+Mrs. B. Sujatha
+Assistant Professor
+bsujatha.csd@anits.edu.in
+7989628618
+
+M.Tech(Ph.D)
+
+Teaching Experience
+9.5 Yr(s)
+
+Achievements
+Faculty Links
+
+Mrs. A Bhagya Lakshmi
+Assistant Professor
+bhagyalakshmi.csd@anits.edu.in
+
+M.Tech (Ph.D)
+
+Teaching Experience
+7 Yr(s)
+
+Faculty Links
+
+Dr. Y Bheem Shankar
+Assistant Professor
+shankaryaga.csd@anits.edu.in
+8121088248
+
+M.Tech
+
+Teaching Experience
+23 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Mrs. Iddum Swathi
+Assistant Professor
+iswathi.csd@anits.edu.in
+
+M.Tech
+
+Teaching Experience
+6 Yr(s)
+
+Faculty Links
+
+Mr G.Naveen
+Assistant Professor
+naveengosu.csd@anits.edu.in
+9440340015
+
+M.Tech(PhD)
+
+Teaching Experience
+10 Yr(s)
+
+Publications
+Faculty Links
+
+Mr. Y Satish Kumar
+Assistant Professor
+satishyanamadala.csd@anits.edu.in
+9908885129
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+20 Yr(s)
+
+Publications
+Faculty Links
+
+Ms.B.Renuka Sai
+Assistant Professor
+renukabantupalli.csd@anits.edu.in
+9494156570
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+4 Yr(s)
+
+Publications
+Faculty Links
+
+Mr P. Uday Bhaskar
+Assistant Professor
+udayp.csd@anits.edu.in
+8143161810
+
+M.Tech
+
+Teaching Experience
+8.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mrs S. Aruna Jyothi
+Assistant Professor
+sarunajyothi.csd@anits.edu.in
+9963175499
+
+M.Tech
+
+Teaching Experience
+9 Yr(s)
+
+Faculty Links
+
+Mrs.K.Venkat Lakshmi
+Assistant Professor
+kvlakshmi.csd@anits.edu.in
+9010437373
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+11.6 Yrs
+
+Publications
+Achievements
+Faculty Links
+
+Mr.Seetayya Narthu
+Assistant Professor
+seethn.csd@anits.edu.in
+9581707371
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+11.6 Yrs
+
+Membership In Committees
+Faculty Links
+
+Mrs. K Sowjanya Naidu
+Assistant Professor
+sowjanyak.csd@anits.edu.in
+7780622583
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+12.0 Yr(s)
+
+
+
+
+Electrical & Electronics Engineering
+
+
+eaching Staff
+List of Faculty
+
+Dr.J.Vijaya Kumar
+Professor & HOD
+vijayakumar.eee@anits.edu.in
+9290852689
+
+M.Tech(NITB), Ph.D(NITW)
+
+Teaching Experience
+19.4 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Prof. G. Raja Rao
+Professor & Dean - Academics
+profgrr.eee@anits.edu.in
+9848384001
+
+M.E.(AU), Ph.D (AU)
+
+Teaching Experience
+36.4 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.V.Murali
+Professor
+murali.eee@anits.edu.in
+9949867976
+
+M.Tech.(NITC), Ph.D (AU)
+
+Teaching Experience
+22.1 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.S.Bala murali
+Associate Professor
+bamamurali.eee@anits.edu.in
+6302825720
+
+M.E.(AU), Ph.D (AU)
+
+Teaching Experience
+21.2 Yr(s)
+
+Membership In Committees
+Faculty Links
+
+Dr. R Satish
+Associate Professor
+satish.eee@anits.edu.in
+9550282030
+
+M.Tech (NIT-J), Ph.D (AU)
+
+Teaching Experience
+15.5 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.Ch.V.N.Raja
+Associate Professor
+chvnraja.eee@anits.edu.in
+9849178501
+
+M.E.(AU),Ph.D (AU)
+
+Teaching Experience
+13.4 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. M. Dhananjaya
+Associate Professor
+mudadladhananjaya.eee@anits.edu.in
+9494778504
+
+M.Tech ,Ph.D (NIT RR),Sr.P.Engg (IIT M)
+
+Teaching Experience
+5.5 Yr(s)
+
+Faculty Links
+
+Mr. B .Raja Sekhar
+Assistant Professor
+rajasekhar.eee@anits.edu.in
+9985554355
+
+M.E., (Ph.D)
+
+Teaching Experience
+17.3 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mrs. Komma Lavanya
+Assistant Professor
+lavanya.eee@anits.edu.in
+9573142884
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+16.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr.M.Sudheer Kumar
+Assistant Professor
+sudheer.eee@anits.edu.in
+8978894289
+
+M.E.(AU) ,(Ph.D)
+
+Teaching Experience
+15.6 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr.K.Trinadh Babu
+Assistant Professor
+trinadh.eee@anits.edu.in
+8790275505
+
+M.E., Ph.D
+
+Teaching Experience
+17.8 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mr.L.Dinesh
+Assistant Professor
+None
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+7.0 Yr(s)
+
+Faculty Links
+
+Mr. S. Harish
+Assistant Professor
+harish.eee@anits.edu.in
+9866232277
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+13.2 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mr. A. Dhanamjaya Apparao
+Assistant Professor
+dhanamjay.eee@anits.edu.in
+9494159504
+
+M.Tech., (Ph.D)
+
+Teaching Experience
+18.1 Yr(s)
+
+Faculty Links
+
+Mr. L. Vijay
+Assistant Professor
+vijay.eee@anits.edu.in
+9154897903
+
+M.E, (Ph.D)-NITS
+
+Teaching Experience
+17.6 Yr(s)
+
+Faculty Links
+
+Mrs. D. Sri Lakshmi
+Assistant Professor
+None
+8106411379
+
+M.E,(Ph.D)
+
+Teaching Experience
+12.0 Yr(s)
+
+Faculty Links
+
+Mrs. V. Rangavalli
+Assistant Professor
+rangavalli.eee@anits.edu.in
+9000996633
+
+M.E,(Ph.D)
+
+Teaching Experience
+13.0 Yr(s)
+
+Faculty Links
+
+Mr. V. Anil Kumar
+Assistant Professor
+None
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+13.0 Yr(s)
+
+Faculty Links
+
+Dr. N. Kiran
+Assistant Professor
+kiran_n.eee@anits.edu.in
+8019600850
+
+M.Tech, Ph.D
+
+Teaching Experience
+14.5 Yr(s)
+
+Faculty Links
+
+Mr. J. Uday
+Assistant Professor
+uday.eee@anits.edu.in
+9701957164
+
+M.Tech (AU) ,(Ph.D)
+
+Teaching Experience
+13.2 Yr(s)
+
+Faculty Links
+
+Mr. R.V.L.N. Divakar
+Assistant Professor
+divakarrvln.eee@anits.edu.in
+9581081815
+
+M.Tech (NITR) ,(Ph.D)
+
+Teaching Experience
+11.0 Yr(s)
+
+Faculty Links
+
+Mrs. T.V. Subhashini
+Assistant Professor
+None
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+13.0 Yr(s)
+
+Faculty Links
+
+Mr. T. Subrahmanyam
+Assistant Professor
+None
+
+M.Tech (IIT Kanpur)
+
+Teaching Experience
+12.0 Yr(s)
+
+Faculty Links
+
+Dr.B.Tulasi Rao
+Assistant Professor
+tulasirao.eee@anits.edu.in
+9494690217
+
+M.Tech , Ph.D (IIT BBS)
+
+Teaching Experience
+3.0 Yr(s)
+
+Faculty Links
+
+Mr.B. Satyanarayana
+Assistant Professor
+satyanarayana.eee@anits.edu.in
+9866725113
+
+M.Tech (NITS) ,(Ph.D)
+
+Teaching Experience
+8.2 Yr(s)
+
+Faculty Links
+
+Dr. Rajesh Dommeti
+Assistant Professor
+None
+
+M.E, Ph.D.
+
+Teaching Experience
+6.6 Yr(s)
+
+Faculty Links
+
+Dr.V S Sandeep Kumar reddy
+Assistant Professor
+vssandeepkumar.eee@anits.edu.in
+9666910098
+
+M.Tech, Ph.D (NITW)
+
+Teaching Experience
+5.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. Appalabathula Venkatesh
+Assistant Professor
+avenkatesh.eee@anits.edu.in
+9154245404
+
+M.Tech, Ph.D (NIE Mysore)
+
+Teaching Experience
+4.5 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. A. Revathy
+Assistant Professor
+revathy.eee@anits.edu.in
+
+M.Tech, Ph.D (SRMIST)
+
+Teaching Experience
+5.0 Yr(s)
+
+Publications
+Faculty Links
+
+Dr.G.Vikash
+Assistant Professor
+gvikas.eee@anits.edu.in
+
+M.Tech, Ph.D (NITR)
+
+Teaching Experience
+3.0 Yr(s)
+
+Publications
+Faculty Links
+
+Mrs.G.Krishnaveni
+Assistant Professor
+None
+8341208356
+
+M.Tech
+
+Teaching Experience
+0.5 Yr(s)
+
+Faculty Links
+
+Dr. B.Santhosh Kumar
+Assistant Professor
+santhoshkumar.eee@anits.edu.in
+
+M.Tech, Ph.D (NITR)
+
+Teaching Experience
+6.0 Yr(s)
+
+Publications
+Faculty Links
+
+Mrs.N.Radha Kumari
+Assistant Professor
+None
+
+M.E
+
+Teaching Experience
+9.0 Yr(s)
+
+Faculty Links
+
+Dr. Ravi Kumar Majji
+Assistant Professor
+mravikumar.eee@anits.edu.in
+9494946075
+
+M.Tech.,Ph.D(NIT-S)
+
+Teaching Experience
+4.0 Yr(s)
+
+
+
+
+
+ELECTRONICS & COMMUNICATION ENGINEERING
+
+
+
+Teaching Staff
+List of Faculty
+
+Dr.V.Rajya Lakshmi
+Professor and Principal
+rajyalakshmi.ece@anits.edu.in
+9533144444
+
+M.E,Ph.D
+
+Teaching Experience
+18.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr.B.Jagadeesh
+Professor&HOD
+profjagadeesh.ece@anits.edu.in
+9866034649
+
+B.E., M.E., Ph.D
+
+Teaching Experience
+24.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. G Manmadha Rao
+Professor & Dean- Placements & Corporate Relations
+profmanmadharao.ece@anits.edu.in
+9441708119
+
+M.E,Ph.D
+
+Teaching Experience
+19.0 Yr(s)
+
+Publications
+Faculty Links
+
+Dr. B.Somasekhar
+Professor
+somasekhar.ece@anits.edu.in
+9908289921
+
+M.E, Ph.D
+
+Teaching Experience
+24.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr.P.MURUGAPANDIYAN
+Professor
+muragapandiyan.ece@anits.edu.in
+7995642097
+
+M.E,Ph.D
+
+Teaching Experience
+16.6 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.S.Srinivas
+Associate Professor
+ssrinivas.ece@anits.edu.in
+9989239486
+
+M.Tech,Ph.D(IIT Hyd)
+
+Teaching Experience
+15.6 Yr(s)
+
+Publications
+Faculty Links
+
+Dr. T. Vidyavathi
+Associate Professor
+vidyavathi.ece@anits.edu.in
+9393963693
+
+B.Tech,M.Tech,Ph.D
+
+Teaching Experience
+17.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr Swathi Nambari
+Associate Professor
+swathinambari.ece@anits.edu.in
+
+M.Tech,Ph.D
+
+Teaching Experience
+17.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. ASHOK KUMAR N
+Associate Professor
+ashokkumar.ece@anits.edu.in
+9010022672
+
+B.Tech,M.Tech,Ph.D
+
+Teaching Experience
+13.6 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.J.Bhaskar Rao
+Associate Professor
+bhaskar.ece@anits.edu.in
+9948581434
+
+B.Tech,M.E, Ph.D
+
+Teaching Experience
+13.6 Yr(s)
+
+Publications
+Faculty Links
+
+Dr. K V Gowreesrinivas
+Associate Professor
+srinivas.ece@anits.edu.in
+9440155583
+
+B.Tech,M.Tech,Ph.D
+
+Teaching Experience
+8.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.Ch.Padma sree
+Associate Professor
+padmasree.ece@anits.edu.in
+9949345579
+
+M.Tech,Ph.D
+
+Teaching Experience
+15.4 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Mrs. P.S.Mayura Veena
+Assistant Professor
+veena.ece@anits.edu.in
+9966215857
+
+B.Tech.,M.Tech,(Ph.D)
+
+Teaching Experience
+17.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. D.Anil Prasad
+Assistant Professor
+anilprasad.ece@anits.edu.in
+9247493129
+
+B.Tech.,M.Tech
+
+Teaching Experience
+14.0 Yr(s)
+
+Publications
+Faculty Links
+
+Mrs. M. Nirmala
+Assistant Professor
+nirmala.ece@anits.edu.in
+9866809641
+
+B.Tech, M.Tech,(Ph.D)
+
+Teaching Experience
+18.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. Ch.Anoosha
+Assistant Professor
+anoosha.ece@anits.edu.in
+9652123637
+
+B.Tech,M.Tech,(Ph.D)
+
+Teaching Experience
+16.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. D.Nagamani
+Assistant Professor
+nagamani.ece@anits.edu.in
+9491762858
+
+B.Tech,M.Tech,(Ph.D)
+
+Teaching Experience
+19.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. A.Siva Kumar
+Assistant Professor
+sivakumar.ece@anits.edu.in
+9494519510
+
+B.E.,M.Tech,(Ph.D)
+
+Teaching Experience
+12.6 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mrs. G.Gayatri
+Assistant Professor
+gayatri.ece@anits.edu.in
+9441349453
+
+B.Tech., M.Tech,(Ph.D)
+
+Teaching Experience
+12.6 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. B.Chandra Mouli
+Assistant Professor
+chandramouli.ece@anits.edu.in
+9849065352
+
+B.Tech., M.Tech (Ph.D)
+
+Teaching Experience
+12.6 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. Vanka Shireesha
+Assistant Professor
+shireesha.ece@anits.edu.in
+9963792396
+
+B.Tech,M.Tech,MBA,(Ph.D)
+
+Teaching Experience
+12.3 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. Sahu Vijay Kumar
+Assistant Professor
+vijaykumarsahu.ece@anits.edu.in
+9642418454
+
+B.Tech,M.Tech,(Ph.D)
+
+Teaching Experience
+14.0 Yr(s)
+
+Membership In Committees
+Faculty Links
+
+Mr. Srinivasa Naidu Nalla
+Assistant Professor
+srinivasanaidu.ece@anits.edu.in
+9502236570
+
+B.Tech.,M.Tech,(Ph.D)
+
+Teaching Experience
+15.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mrs. B.Deepa
+Assistant Professor
+deepa.ece@anits.edu.in
+9502191391
+
+B.E.,M.Tech,(Ph.D)
+
+Teaching Experience
+16.6 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. V.Vijay Kumar Raju
+Assistant Professor
+vvkraju.ece@anits.edu.in
+9010641821
+
+B.Tech,M.Tech.,(Ph.D)
+
+Teaching Experience
+15.6 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mrs. P.Chaya Devi
+Assistant Professor
+chayadevi.ece@anits.edu.in
+9642289117
+
+B.Tech,M.Tech, (Ph.D)
+
+Teaching Experience
+11.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Mr. Chandra Kiran Patrudu B
+Assistant Professor
+kiranpatrudu.ece@anits.edu.in
+9985692690
+
+B,Tech,M.Tech,(PhD)
+
+Teaching Experience
+13.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Dr. Bibekananda Jena
+Assistant Professor
+bjena.ece@anits.edu.in
+9052551451
+
+B.Tech,M.Tech,Ph.D
+
+Teaching Experience
+16.6 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Mrs. KOTANA YASHODA
+Assistant Professor
+yashoda.ece@anits.edu.in
+9032609052
+
+B.E,M.E,(Ph.D)
+
+Teaching Experience
+10.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Mr.Devi Pradeep Podugu
+Assistant Professor
+devipradeep.ece@anits.edu.in
+9440399180
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+21.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. PERLA DEVI
+Assistant Professor
+devi.ece@anits.edu.in
+8500774280
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+8.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Dr. G. PRASANNA
+Assistant Professor
+prasanna.ece@anits.edu.in
+8790978326
+
+Ph.D
+
+Teaching Experience
+19.0 Yr(s)
+
+Publications
+Faculty Links
+
+Mrs. B.RAMA DEVI
+Assistant Professor
+ramadevi.ece@anits.edu.in
+7207835844
+
+M.E., (Ph.D)
+
+Teaching Experience
+15.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. INDIRA DEVI GEDELA
+Assistant Professor
+indiradevi.ece@anits.edu.in
+9676867978
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+12.0 Yr(s)
+
+Publications
+Faculty Links
+
+Mr. S Ravi Kumar
+Assistant Professor
+sravikumar.ece@anits.edu.in
+8919605085
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+10.8 Years
+
+Publications
+Faculty Links
+
+Mr. Pyla Rajesh
+Assistant Professor
+prajesh.ece@anits.edu.in
+9885500463
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+11.5 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+
+
+
+Information Technology
+
+
+
+Teaching Staff
+List of Faculty
+
+Dr Mantripragada Rekha Sundari
+Professor & HOD
+mrekhasundari.it@anits.edu.in
+9848375001
+
+M.Tech,Ph.D
+
+Teaching Experience
+17.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Prof Poosapati Padmaja
+Professor & Dean - Training
+padmaja.it@anits.edu.in
+944134078
+
+M.Tech.,Ph.D
+
+Teaching Experience
+30.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr.Ram Prasad Reddy Sadi
+Professor
+reddysadi.it@anits.edu.in
+9441025054
+
+M.Tech,Ph.D
+
+Teaching Experience
+27.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. P. Saritha Hepsibha
+Associate Professor
+None
+
+M.Tech,Ph.D
+
+Teaching Experience
+11.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Dr. Pydipala LaxmiKanth
+Associate Professor
+None
+9849170207
+
+M.Tech., P.hd.
+
+Teaching Experience
+23.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr M.V.Kishore
+Assistant Professor
+mvkishore.it@anits.edu.in
+9912668705
+
+M.Tech.,(Ph.D)
+
+Teaching Experience
+13.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr Reddi Prasadu
+Assistant Professor
+rprasad.it@anits.edu.in
+9848565696
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+16.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs J.S.V Sai Hari Priyanka
+Assistant Professor
+haripriyanka.it@anits.edu.in
+8374162474
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+10.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. G Vijaya Lakshmi
+Assistant Professor
+gvijayalakshmi.it@anits.edu.in
+9703064193
+
+M.Tech, Ph.D
+
+Teaching Experience
+13.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr Durga Praveen Kumar. A
+Assistant Professor
+durgapraveenkumar.it@anits.edu.in
+9642667945
+
+M.Tech
+
+Teaching Experience
+13.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mrs Vale Alekya
+Assistant Professor
+alekya.it@anits.edu.in
+7793939269
+
+M.Tech(Ph.D)
+
+Teaching Experience
+10.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs Murry Swathi
+Assistant Professor
+mswathi.it@anits.edu.in
+9160442020
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+9.9 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs.Prathi Naveena
+Assistant Professor
+pnaveena.it@anits.edu.in
+7997579583
+
+M.Tech(Ph.D)
+
+Teaching Experience
+7.8 Yr(s)
+
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs.D.Tejaswi
+Assistant Professor
+tejaswi.it@anits.edu.in
+9948321735
+
+M.Tech
+
+Teaching Experience
+5.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Ms.Ch.Anusha
+Assistant Professor
+anusha.it@anits.edu.in
+7330671751
+
+M.Tech
+
+Teaching Experience
+2.8 Yr(s)
+
+Faculty Links
+
+Mrs.V.Krishna Sameera
+Assistant Professor
+sameera.it@anits.edu.in
+8978734789
+
+M.Tech
+
+Teaching Experience
+3.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. G. Ravindranath
+Assistant Professor
+ravindranath.it@anits.edu.in
+9553703364
+
+M.Tech
+
+Teaching Experience
+5.0 Yr(s)
+
+Faculty Links
+
+Mrs D.Satya sowjanya
+Assistant Professor
+soujanya.it@anits.edu.in
+8985951239
+
+M.Tech
+
+Teaching Experience
+2.0 Yr(s)
+
+Faculty Links
+
+Mr.K Satyanarayana Murthy
+Assistant Professor
+murthy.it@anits.edu.in
+7981814111
+
+M.Tech.,(Ph.D)
+
+Teaching Experience
+14.4 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mrs. Buddharaju Sunayana
+Assistant Professor
+sunayana.it@anits.edu.in
+8555943038
+
+M.Tech.,(Ph.D)
+
+Teaching Experience
+6.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Ms. Bodduru Keerthana
+Assistant Professor
+keerthana.it@anits.edu.in
+9392487105
+
+M.Tech
+
+Teaching Experience
+5.3 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mr.N.Chaitanya Kumar
+Assistant Professor
+chaitanya.it@anits.edu.in
+6305743496
+
+M.Tech
+
+Teaching Experience
+9.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Mrs.Hima Bindhu Gogineni
+Assistant Professor
+bindu.it@anits.edu.in
+9000809254
+
+M.Tech,(Ph.D)
+
+Teaching Experience
+14.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. A Ravi Kishore
+Assistant Professor
+ravikishore.it@anits.edu.in
+8328578519
+
+M.Tech (Ph.D)
+
+Teaching Experience
+10.8 Years
+
+Publications
+Achievements
+Faculty Links
+
+Dr.Chappidi Suneetha
+Assistant Professor
+Suneetha.it@anits.edu.in
+9492954301
+
+M.Tech.,Ph.D
+
+Teaching Experience
+17
+
+Publications
+Membership In Committees
+Faculty Links
+
+Ms. Indigibilli Sahithi
+Assistant Professor
+sahithi.it@anits.edu.in
+9652534051
+
+M.Tech
+
+Teaching Experience
+1.8 Yrs
+
+Faculty Links
+
+Ms. Boddepalli Prameela
+Assistant Professor
+bprameela.it@anits.edu.in
+9701296324
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+6.0 Yr(s)
+
+
+Mechanical Engineering
+
+
+
+
+Teaching Staff
+List of Faculty
+
+Dr.T.V.Hanumantha Rao
+Professor & Director - IQAC
+proftvhrao@anits.edu.in
+9441011735
+
+M.Tech.,Ph.D, F.I.E
+
+Teaching Experience
+36.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.B.Naga Raju
+Professor & HOD
+nagaraju.me@anits.edu.in
+9894920049
+
+M.Tech., M.E., Ph.D.,MISTE, MIE,
+
+Teaching Experience
+26.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.N.V.N.Indra Kiran
+Professor & Dean - Exams
+indrakiran.me@anits.edu.in
+9989074578
+
+M.E ( I.E), Ph.D
+
+Teaching Experience
+23.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr.K.Siva Prasad
+Professor
+ksp.me@anits.edu.in
+9849212391
+
+M.Tech (Thermal Engg).,Ph.D, MISTE
+
+Teaching Experience
+25.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. R. Chandra Mouli
+Associate Professor
+rcmouli.me@anits.edu.in
+8500215172
+
+M.Tech (IIT-D), (Ph.D -NIT-AP)
+
+Teaching Experience
+23.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. Rajesh Ghosh
+Associate Professor
+rajesh_ghosh.me@anits.edu.in
+7382272699
+
+M. Tech, Ph.D.,
+
+Teaching Experience
+22.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Dr. M. Raja Roy
+Associate Professor
+rajaroy.me@anits.edu.in
+9963340907
+
+M.E.,Ph.D
+
+Teaching Experience
+20.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. M Prasanth Kumar
+Associate Professor
+mprasanth.me@anits.edu.in
+9701024157
+
+M.Tech.,Ph.D
+
+Teaching Experience
+15.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.V Bindu Neeharika
+Associate Professor
+binduneeharika.me@anits.edu.in
+9490812442
+
+M.B.A,M.E. Ph.D
+
+Teaching Experience
+20.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. K.Naresh Kumar
+Associate Professor
+knaresh.me@anits.edu.in
+9949717058
+
+M.Tech.,Ph.D
+
+Teaching Experience
+15.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.K.Satyanarayana
+Associate Professor
+ksnarayana.me@anits.edu.in
+9701558712
+
+M.Tech.,Ph.D
+
+Teaching Experience
+20.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. Lenin V R
+Associate Professor
+leninvr.me@anits.edu.in
+7708509046
+
+M.E., Ph.D.
+
+Teaching Experience
+16.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. M. Vinod Babu
+Associate Professor
+m.vinodhbabu.me@anits.edu.in
+9490248582
+
+M.Tech, Ph.D-(NITW)
+
+Teaching Experience
+22.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. G. Uma Maheswara Rao
+Sr.Asst.Professor
+gumr.me@anits.edu.in
+9849065837
+
+M.Tech(Mineral Processing)(Ph.D)
+
+Teaching Experience
+27.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Mrs. P. Ramya
+Assistant Professor
+pramya.me@anits.edu.in
+9703065992
+
+M.E. (Ph.D)
+
+Teaching Experience
+16.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr.D S S Ravi Kiran
+Assistant Professor
+sairavikiran.me@anits.edu.in
+8500937686
+
+M.Tech., Ph.D
+
+Teaching Experience
+20.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Ms. K. V. Rukmini
+Assistant Professor
+rukmini.me@anits.edu.in
+8099712443
+
+M.E., (Ph.D)
+
+Teaching Experience
+15.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Mr. B.B. Ashok Kumar
+Assistant Professor
+ashokkumar.me@anits.edu.in
+9704638061
+
+M.E.,(Ph.D)
+
+Teaching Experience
+15.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+S.Phani Kumar
+Assistant Professor
+sphani.me@anits.edu.in
+9866701200
+
+M.E.,(Ph.D)
+
+Teaching Experience
+17.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.M.Sailaja
+Assistant Professor
+sailaja.me@anits.edu.in
+9676530402
+
+M.E.,Ph.D
+
+Teaching Experience
+14.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+J.V. Bhanu Tej
+Assistant Professor
+bhanutej.me@anits.edu.in
+9700035246
+
+M. Tech., (Ph.D)
+
+Teaching Experience
+11.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Behera V. Ravi Teja
+Assistant Professor
+raviteja.me@anits.edu.in
+8074751169
+
+M.E,(Ph.D)
+
+Teaching Experience
+11.0 Yr(s)
+
+Faculty Links
+
+Dr. B. Pradeep Kumar
+Assistant Professor
+pradeep.me@anits.edu.in
+8500893550
+
+M. Tech. (NIT Warangal), Ph.D
+
+Teaching Experience
+11.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr. R. D. V. Prasad
+Assistant Professor
+rdvprasad.me@anits.edu.in
+8985897002
+
+M.Tech, Ph.D
+
+Teaching Experience
+14.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+M Prem Dheeraj
+Assistant Professor
+mpremdheeraj.me@anits.edu.in
+9290692906
+
+M.E, (Ph. D-IITB)
+
+Teaching Experience
+10.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Boda Geeta Chandra Sekhar
+Assistant Professor
+bchandrasekhar.me@anits.edu.in
+9492545954
+
+M.Tech.( Ph.D - NITAP)
+
+Teaching Experience
+10.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+G Naresh
+Assistant Professor
+nareshg.me@anits.edu.in
+9959748997
+
+M.E, (Ph. D)
+
+Teaching Experience
+12.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+P. Bala Divya
+Assistant Professor
+pbaladivya.me@anits.edu.in
+7386567611
+
+M.Tech. (Ph.D)
+
+Teaching Experience
+10.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+K.S. Lalitha Soujanya
+Assistant Professor
+kslsoujanya.me@anits.edu.in
+9177215713
+
+M.Tech, (Ph.D- NITAP)
+
+Teaching Experience
+14.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Ch. Maheswara Rao
+Assistant Professor
+maheswararao.me@anits.edu.in
+7995152558
+
+M.E.(Ph.D)
+
+Teaching Experience
+16.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr.Peruri Siva V N B Gupta
+Assistant Professor
+Psvnbgupta.me@anits.edu.in
+8500453745
+
+M.Tech, Ph.D
+
+Teaching Experience
+11.0 Yr(s)
+
+Membership In Committees
+Faculty Links
+
+R. VaraPrasad
+Assistant Professor
+varaprasad.me@anits.edu.in
+7207763064
+
+M.Tech, (Ph.D)
+
+Teaching Experience
+10.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+B Krishna Prafulla
+Assistant Professor
+krishnaprafulla.me@anits.edu.in
+9666444676
+
+B.Tech, M.Tech, (Ph.D)
+
+Teaching Experience
+14.0 Yr(s)
+
+Membership In Committees
+Faculty Links
+
+Gowrisankar kaitha
+Assistant Professor
+gowrisankar.me@anits.edu.in
+9985180199
+
+M.E. (Ph.D)
+
+Teaching Experience
+11.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+S.Ramanjaneyulu
+Assistant Professor
+s.ramanjaneyulu.me@anits.edu.in
+9703850785
+
+M.E, (Ph.D)
+
+Teaching Experience
+10.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr. Srinivasa Rao Mallipudi
+Assistant Professor
+m.srinivasarao.me@anits.edu.in
+7993143579
+
+M.E, Ph.D
+
+Teaching Experience
+16.0 Yr(s)
+
+Publications
+Achievements
+Membership In Committees
+Faculty Links
+
+Dr.M. Prithvi Raj
+Assistant Professor
+mprithviraj27.me@anits.edu.in
+9642380720
+
+M.Tech (NIAMT), Ph.D (NIAMT)
+
+Teaching Experience
+4.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Dr. MVNV Satyanarayana
+Assistant Professor
+mvnvsatyanarayana.me@anits.edu.in
+9704684701
+
+M.Tech (NITW), Ph.D (NITW)
+
+Teaching Experience
+9.0 Yr(s)
+
+Publications
+Achievements
+Faculty Links
+
+Dr. Ramesh Babu Bejjam
+Assistant Professor
+ramesh.me@anits.edu.in
+9642903233
+
+M.Tech (IIT KGP), Ph.D (NIT W)
+
+Teaching Experience
+14.0 Yr(s)
+
+Publications
+Membership In Committees
+Faculty Links
+
+Dr.S Krishna Kireeti
+Assistant Professor
+skk.me@anits.edu.in
+8985608366
+
+M.TECH (NIT-W), Ph.D- (NITAP)
+
+Teaching Experience
+5.0 Yr(s)
+
+Publications
+Faculty Links
+
+Dr. Srinivasu Dasari
+Assistant Professor
+srinivasud.me@anits.edu.in
+9000056282
+
+M.Tech , Ph.D - (NIT-RKL)
+
+Teaching Experience
+8.0 Yr(s)
+
+
+
+
+
